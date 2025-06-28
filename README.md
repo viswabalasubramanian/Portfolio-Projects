@@ -32,7 +32,7 @@ Feel free to explore the projects listed in this repository. Each project direct
 To get started, simply navigate to the project directories and check out the accompanying documentation and code.
 
 # Contact
-If you have any questions or feedback, don’t hesitate to reach out. You can connect with me on https://www.linkedin.com/in/kathir-jm/ for more about my professional journey and other work.
+If you have any questions or feedback, don’t hesitate to reach out. You can connect with me on Linkedin for more about my professional journey and other work.
 
 Thank you for visiting my portfolio. I hope you find the projects interesting and insightful!
 
